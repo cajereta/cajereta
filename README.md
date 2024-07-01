@@ -5,7 +5,7 @@
 
 📚 Certified Fullstack JS Developer.
 
-🌱 I’m currently learning C# along with SQL.
+🌱 I’m currently learning Golang and Kotlin.
 
 
 ## Languages and Tools
